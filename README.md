@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abhinandanshrestha
-- 👀 I’m interested in AI/ML, Web development
+- 👀 I’m Computer Engineer
 - 🌱 I’m currently learning Web development
 - 📫 How to reach me shtabhi@gmail.com
 
